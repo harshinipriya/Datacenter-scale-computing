@@ -1,2 +1,2 @@
-# project-3-serverless-muthukrishnan-upadhyaya
-project-3-serverless-muthukrishnan-upadhyaya created by GitHub Classroom
+
+Project that uses Python script on an AWS Lambda platform
